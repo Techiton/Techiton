@@ -10,3 +10,14 @@
 ### Socials 
 
 ## https://api.dynamicapi.tk/
+
+<a href="https://discord.gg/E84vdXNnag">
+  <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.reddit.com/user/TechifyAu">
+  <img align="left" alt="Reddit" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+</a>
+
+- 🔭 Projects I'm currently working on:
+[Weathery 2.0](https://top.gg/bot/895227473040662548)
+#### What is Weathery 2.0? He is a Weather Bot That Is Used Across 50 Servers On Discord!
