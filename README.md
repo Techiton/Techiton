@@ -11,23 +11,21 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="1" src="https://icongr.am/devicon/javascript-original.svg?size=38&color=ffffff">
-<img align="left" alt="3" src="https://icongr.am/devicon/nodejs-original.svg?size=38&color=ffffff">
-<img align="left" alt="15" src="https://icongr.am/devicon/electron-original.svg?size=38&color=ffffff">
-<img align="left" alt="2" src="https://icongr.am/devicon/mongodb-original.svg?size=38&color=ffffff">
-<img align="left" alt="4" src="https://icongr.am/devicon/html5-original.svg?size=38&color=ffffff">
-<img align="left" alt="5" src="https://icongr.am/devicon/css3-original.svg?size=38&color=ffffff">
-<img align="left" alt="6" src="https://icongr.am/devicon/express-original.svg?size=38&color=ffffff">
-<img align="left" alt="7" src="https://icongr.am/devicon/typescript-original.svg?size=38&color=ffffff">
-<img align="left" alt="8" src="https://icongr.am/devicon/java-original.svg?size=38&color=ffffff">
-<img align="left" alt="9" src="https://icongr.am/devicon/heroku-original.svg?size=38&color=ffffff">
-<img align="left" alt="14" src="https://icongr.am/devicon/docker-original.svg?size=38&color=ffffff">
-<img align="left" alt="10" src="https://icongr.am/devicon/photoshop-plain.svg?size=38&color=ffffff">
-<img align="left" alt="11" src="https://icongr.am/devicon/trello-plain.svg?size=38&color=ffffff">
-<img align="left" alt="12" src="https://icongr.am/devicon/git-original.svg?size=38&color=ffffff">
-<img align="left" alt="13" src="https://icongr.am/devicon/github-original.svg?size=38&color=ffffff">
-<img align="left" alt="16" src="https://icongr.am/devicon/webstorm-original.svg?size=38&color=ffffff">
-<img align="left" alt="17" src="https://icongr.am/devicon/intellij-original.svg?size=38&color=ffffff"><br><br>
+<img align="left" alt="1" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=ffffff">
+<img align="left" alt="3" src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=ffffff">
+<img align="left" alt="15" src="https://icongr.am/devicon/electron-original.svg?size=40&color=ffffff">
+<img align="left" alt="2" src="https://icongr.am/devicon/mongodb-original.svg?size=40&color=ffffff">
+<img align="left" alt="4" src="https://icongr.am/devicon/html5-original.svg?size=40&color=ffffff">
+<img align="left" alt="5" src="https://icongr.am/devicon/css3-original.svg?size=40&color=ffffff">
+<img align="left" alt="6" src="https://icongr.am/devicon/express-original.svg?size=40&color=ffffff">
+<img align="left" alt="7" src="https://icongr.am/devicon/typescript-original.svg?size=40&color=ffffff">
+<img align="left" alt="8" src="https://icongr.am/devicon/java-original.svg?size=40&color=ffffff">
+<img align="left" alt="9" src="https://icongr.am/devicon/heroku-original.svg?size=40&color=ffffff">
+<img align="left" alt="14" src="https://icongr.am/devicon/docker-original.svg?size=40&color=ffffff">
+<img align="left" alt="10" src="https://icongr.am/devicon/photoshop-plain.svg?size=40&color=ffffff">
+<img align="left" alt="11" src="https://icongr.am/devicon/trello-plain.svg?size=40&color=ffffff">
+<img align="left" alt="12" src="https://icongr.am/devicon/git-original.svg?size=40&color=ffffff">
+<img align="left" alt="13" src="https://icongr.am/devicon/github-original.svg?size=40&color=ffffff">
 
 ---
 
