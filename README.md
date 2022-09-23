@@ -20,7 +20,6 @@
 <img align="left" alt="6" src="https://icongr.am/devicon/express-original.svg?size=35&color=ffffff">
 <img align="left" alt="7" src="https://icongr.am/devicon/typescript-original.svg?size=35&color=ffffff">
 <img align="left" alt="8" src="https://icongr.am/devicon/java-original.svg?size=35&color=ffffff">
-<img align="left" alt="9" src="https://icongr.am/devicon/heroku-original.svg?size=35&color=ffffff">
 <img align="left" alt="14" src="https://icongr.am/devicon/docker-original.svg?size=35&color=ffffff">
 <img align="left" alt="10" src="https://icongr.am/devicon/photoshop-plain.svg?size=35&color=ffffff">
 <img align="left" alt="11" src="https://icongr.am/devicon/trello-plain.svg?size=35&color=ffffff">
