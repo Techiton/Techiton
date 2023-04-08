@@ -15,7 +15,8 @@ __**Languages:**__
 - Javascript, Typescript, Go, Rust, Java, Html, CSS
 
 __**Frameworks:**__
-- Next.js, Remix.js, Astro.js, Nuxt.js, Vue.js, Express
+- Next.js, Remix.js, Astro.js, Nuxt.js, Vue.js, Express [ Javascript/Typescript ]
+- Gin, Iris [ Go/Golang ]
 
 __**Css Frameworks:**__
 - Tailwindcss, Bootstrap, SASS, Bulma, Emotion, Styled Components 
